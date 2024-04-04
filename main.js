@@ -1,4 +1,5 @@
 import './style.css'
-import { initTemplate } from './src/utils'
+import { initTemplate,initControler } from './src/utils'
 
 initTemplate();
+initControler();
