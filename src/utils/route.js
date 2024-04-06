@@ -2,11 +2,11 @@ import { getUser } from "../global/state/globalstate";
 import { Login, PrintPokemonPage, printTemplateDashboard } from "../pages"; //faltaria añadir PrintTicTacToePage()
 
 
-export const initControler = (pagesRender) => {
+export const initControler = (pagesRender) => {// pagina a renderizar en la app
  
     switch (pagesRender) {
   
-    // si no hay usuario, pinta el Login
+    // si no hay usuario, pinta el Login, si existe, pinta el Dashboard
       case undefined:
         localStorage.getItem(getUser().name) ? printTemplateDashboard() : Login();
         break;
