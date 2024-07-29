@@ -1,0 +1,4 @@
+Web interactiva y dinámica creada con Javascript que sirve como un portal de juegos, incluyendo Memory Card, Conecta 4, así como una sección dedicada a Pokémon, con llamadas asíncronas a través de Axios a la API de Pokémon. Código en GitHub.<img width="1440" alt="Captura de pantalla 2024-07-29 a las 16 36 09" src="https://github.com/user-attachments/assets/de1d804a-6a03-4ce7-893b-bb4e733fd91b">
+<img width="1440" alt="Captura de pantalla 2024-07-29 a las 16 36 21" src="https://github.com/user-attachments/assets/66f0dd01-c7f1-4fad-aeec-bcc6e4c41c14">
+<img width="1440" alt="Captura de pantalla 2024-07-29 a las 16 36 38" src="https://github.com/user-attachments/assets/61dd7bdf-5bbb-44c0-bd96-ede6d9a95737">
+<img width="1440" alt="Captura de pantalla 2024-07-29 a las 16 36 50" src="https://github.com/user-attachments/assets/2b0da44d-9f83-4d77-a007-0ad09ab520d5">
